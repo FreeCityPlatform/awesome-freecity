@@ -20,6 +20,8 @@ Thanks to all [contributors](https://github.com/FreeCityPlatform/awesome-freecit
 
 - [Liberstad](https://www.liberstad.com/) - Liberstad is a private resort and membership community for voluntaryists, ancaps, libertarians and other freedom loving people who adhere to the non-aggression principle.
 
+- [Montelibero](https://montelibero.org/) - Montelibero is a social movement for libertarian Europe, starting with Montenegro as a model of a successful society based on individual freedom.
+
 ## Organizations
 
 - [Free Cities Foundation](https://free-cities.org/) - The Free Cities Foundation works with self-governing territories that uphold individual rights and freedoms.
