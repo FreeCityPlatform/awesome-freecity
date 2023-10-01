@@ -57,3 +57,9 @@ Thanks to all [contributors](https://github.com/FreeCityPlatform/awesome-freecit
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 Contributors to this repository has waived all copyright and related or neighboring rights to this work, even those rights that are not possible under law, because we don't recognice any national laws.
+
+## Contributors
+
+<a align="center" href="https://github.com/FreeCityPlatform/awesome-freecity/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=FreeCityPlatform/awesome-freecity" />
+</a>
