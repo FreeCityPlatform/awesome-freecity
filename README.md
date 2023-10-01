@@ -1,16 +1,8 @@
 # Awesome Free City!
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
 Curated list of awesome links that is related to Free City movement. There are more new city projects in the world than free city projects, so this list is open to include software that is not directly targeted free cities, but also software that can be utilized by those free cities, even though the software might be curated for a larger audience.
 
 Thanks to all [contributors](https://github.com/FreeCityPlatform/awesome-freecity/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
-
-# License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-Contributors to this repository has waived all copyright and related or neighboring rights to this work, even those rights that are not possible under law, because we don't recognice any national laws.
 
 # Table of Contents
 
@@ -51,3 +43,9 @@ Contributors to this repository has waived all copyright and related or neighbor
 ## Podcasts
 
 - [Free Cities Podcast](https://free-cities.org/category/podcast/) - The Free Cities Podcast, hosted by filmmaker and the Foundation’s creative director Timothy Allen, explores the stories of the people who build, live in, and advocate for Free Cities.
+
+# License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+Contributors to this repository has waived all copyright and related or neighboring rights to this work, even those rights that are not possible under law, because we don't recognice any national laws.
