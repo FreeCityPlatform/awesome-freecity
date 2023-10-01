@@ -11,6 +11,7 @@ Thanks to all [contributors](https://github.com/FreeCityPlatform/awesome-freecit
 - [Software](#software)
 - [Websites](#websites)
 - [Podcasts](#podcasts)
+- [Blogs](#blogs)
 
 ## Cities
 
@@ -45,6 +46,11 @@ Thanks to all [contributors](https://github.com/FreeCityPlatform/awesome-freecit
 ## Podcasts
 
 - [Free Cities Podcast](https://free-cities.org/category/podcast/) - The Free Cities Podcast, hosted by filmmaker and the Foundation’s creative director Timothy Allen, explores the stories of the people who build, live in, and advocate for Free Cities.
+
+## Blogs
+
+- [Liberland News](https://liberland.org/en/news)
+- [Liberstad Blog](https://www.liberstad.com/blog)
 
 # License
 
