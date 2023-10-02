@@ -43,6 +43,8 @@ Thanks to all [contributors](https://github.com/FreeCityPlatform/awesome-freecit
 
 - [Liberstad CC Portal](https://www.liberstad.cc/) - CC are companies that exists on the City Chain blockchain and operate independently outside of national and state borders and boundaries.
 
+- [Neighborpicker](https://neighborpicker.com/) - WE BUILD YOUR COMMUNITY, Live with people you like.
+
 ## Podcasts
 
 - [Free Cities Podcast](https://free-cities.org/category/podcast/) - The Free Cities Podcast, hosted by filmmaker and the Foundation’s creative director Timothy Allen, explores the stories of the people who build, live in, and advocate for Free Cities.
