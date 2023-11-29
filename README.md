@@ -39,6 +39,22 @@ Thanks to all [contributors](https://github.com/FreeCityPlatform/awesome-freecit
 
 - [Open Source Website](https://opensourcewebsite.org/) - Creating an Open and Democratic Online Community
 
+- [FreeCAD](https://www.freecad.org/) - Your own 3D parametric modeler.
+
+## Blockchains
+
+- [Stellar](https://stellar.org/) - Used by Montelibero
+
+- [City Chain](https://www.city-chain.org/) - Used by Liberstad
+
+- [Substrate](https://www.parity.io/technologies/substrate/) - Used by Liberland
+
+## Communication
+
+- [Telegram](https://telegram.org/) - Used by most projects
+
+- [Nostr](https://en.wikipedia.org/wiki/Nostr) - Used by Liberstad
+
 ## Websites
 
 - [Liberstad CC Portal](https://www.liberstad.cc/) - CC are companies that exists on the City Chain blockchain and operate independently outside of national and state borders and boundaries.
