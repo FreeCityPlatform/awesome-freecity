@@ -23,6 +23,8 @@ Thanks to all [contributors](https://github.com/FreeCityPlatform/awesome-freecit
 
 - [Montelibero](https://montelibero.org/) - Montelibero is a social movement for libertarian Europe, starting with Montenegro as a model of a successful society based on individual freedom.
 
+- [Próspera](https://www.prospera.co/) - Próspera is a private city and special economic zone on the island of Roatán in the Central American state of Honduras.
+
 ## Organizations
 
 - [Free Cities Foundation](https://free-cities.org/) - The Free Cities Foundation works with self-governing territories that uphold individual rights and freedoms.
@@ -54,6 +56,8 @@ Thanks to all [contributors](https://github.com/FreeCityPlatform/awesome-freecit
 - [Telegram](https://telegram.org/) - Used by most projects
 
 - [Nostr](https://en.wikipedia.org/wiki/Nostr) - Used by Liberstad
+
+- [Próspera City Builders Network](https://community.prospera.co/) - Used by Próspera
 
 ## Websites
 
